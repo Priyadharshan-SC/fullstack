@@ -1,0 +1,110 @@
+🚀 Month 1 Tools + Learning Resources
+1. VS Code (Editor)
+Why: Code writing, debugging, Git integration
+
+Key Features to Learn: UI, extensions, terminal, debugging
+
+Resources:
+Official VS Code Docs:
+https://code.visualstudio.com/docs
+
+YouTube:
+VS Code Beginner Tutorial (2023) by The Net Ninja
+
+Cheat Sheet:
+https://code.visualstudio.com/shortcuts/keyboard-shortcuts-windows.pdf
+
+2. Git & GitHub
+Why: Version control, collaboration, code backup
+
+Key Features to Learn: Init repo, commit, branch, push, pull, SSH keys
+
+Resources:
+Git Official Book (Free):
+https://git-scm.com/book/en/v2
+
+GitHub Docs:
+https://docs.github.com/en/get-started
+
+YouTube:
+Git & GitHub Crash Course by Traversy Media
+
+Interactive:
+https://learngitbranching.js.org/
+
+3. HTML
+Why: Structure web pages
+
+Key Features to Learn: Tags, attributes, forms, semantic HTML
+
+Resources:
+MDN Web Docs:
+https://developer.mozilla.org/en-US/docs/Web/HTML
+
+YouTube:
+HTML Full Course - Build a Website Tutorial by freeCodeCamp
+
+Interactive:
+https://www.freecodecamp.org/learn/responsive-web-design/basic-html-and-html5/
+
+4. CSS
+Why: Styling web pages
+
+Key Features to Learn: Selectors, box model, flexbox, responsive design basics
+
+Resources:
+MDN Web Docs:
+https://developer.mozilla.org/en-US/docs/Web/CSS
+
+YouTube:
+CSS Tutorial for Beginners by Programming with Mosh
+
+Interactive:
+https://flexboxfroggy.com/ (flexbox game)
+
+5. Chrome DevTools
+Why: Inspect, debug, and optimize webpages
+
+Key Features to Learn: Elements panel, console, network, device simulation
+
+Resources:
+Google DevTools Docs:
+https://developer.chrome.com/docs/devtools/
+
+YouTube:
+Chrome DevTools Tutorial for Beginners by freeCodeCamp
+
+Guide:
+https://developers.google.com/web/tools/chrome-devtools
+
+6. Live Server (VS Code Extension)
+Why: Auto reload your web page as you code
+
+Resources:
+Extension Page:
+https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer
+
+Quick Setup Guide:
+Live Server Setup & Usage by Web Dev Simplified
+
+7. Prettier & ESLint (VS Code Extensions)
+Why: Auto format code & catch errors early
+
+Resources:
+Prettier Docs:
+https://prettier.io/docs/en/index.html
+
+ESLint Docs:
+https://eslint.org/docs/user-guide/getting-started
+
+YouTube Setup:
+ESLint & Prettier Setup by The Net Ninja
+
+🗓️ How to Use This?
+Use your 3 days pre-study time to explore VS Code, Git, and GitHub deeply.
+
+From Day 1 onward, study HTML & CSS daily, using these resources.
+
+Practice a bit with Chrome DevTools and Live Server as you code.
+
+Integrate Prettier and ESLint early to develop good coding habits.
