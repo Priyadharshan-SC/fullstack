@@ -9,3 +9,9 @@
 - 📂 Projects: Portfolio Website, Weather App
 
 [My GitHub](https://github.com/Priyadharshan-SC)
+# My full stack journey 
+this is my personal blog for becoming a full-stack developer
+## Tools Used
+- Vs code
+- Git & GitHub
+- Live Server
