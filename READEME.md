@@ -16,6 +16,6 @@ this is my personal blog for becoming a full-stack developer
 - Git & GitHub
 - Live Server
 ## Additional Tools
-1.sublime text
-1.codepen io
-1.w3rectifier
+ 1.sublime text
+ 1.codepen io
+ 1.w3rectifier
